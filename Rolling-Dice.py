@@ -28,7 +28,7 @@ def roll_dice(number_of_sides):
     if guess == total_roll: 
       print "You Won"
     else: 
-      print "You lost"
+      print "You lost xiao jiji"
  
 roll_dice(6)
   
